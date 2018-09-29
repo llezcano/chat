@@ -7,6 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Server
   Just install socket.io dependency on server `npm install socket.io`
-  To run the server run `node server.js`
+  To run the server run `npm run server`
   Server will run on port 8888
 
